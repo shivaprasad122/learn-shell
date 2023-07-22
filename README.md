@@ -1,1 +1,3 @@
-# learning sshell
+# learning shell
+# topics of shell scripting
+
