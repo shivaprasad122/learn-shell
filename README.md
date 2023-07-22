@@ -1,3 +1,6 @@
 # learning shell
-# topics of shell scripting
+topics of shell scripting
 
+ 1. comments
+2. print
+3. variables
