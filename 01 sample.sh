@@ -6,3 +6,4 @@ ip a
 
 #this is just a comment
 okay
+netstat-lntp
